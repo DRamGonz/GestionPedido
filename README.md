@@ -127,6 +127,6 @@ Cliente (1) ---- (N) Pedidos
 
 
 ```
-![Logo](public/Logo.png)
+![Logo](GestionPedido/public/Logo.png)
 ```
 
