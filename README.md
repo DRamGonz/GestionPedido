@@ -124,9 +124,11 @@ Cliente (1) ---- (N) Pedidos
 
 ## Autor
 
+<p align="center">
+  <img src="docs/Logo.png" width="120">
+</p>
 
-
-```
-![Logo](GestionPedido/public/Logo.png)
-```
+<p align="center">
+  Diego Ramos
+</p>
 
